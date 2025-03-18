@@ -1,0 +1,6 @@
+# 忽略 data 文件夹下所有内容
+data/*
+
+# 例外：保留 hymenoptera_data 目录及其所有内容
+!data/hymenoptera_data/
+!data/hymenoptera_data/**
